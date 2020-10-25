@@ -14,7 +14,7 @@ with open(classesFile, 'rt') as f:
     classNames = f.read().rstrip('\n').split('\n')
 
     '''''
-    # Test 
+    # Test class names 
 print(classNames)
 '''''
 
