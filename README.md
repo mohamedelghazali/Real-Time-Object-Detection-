@@ -20,8 +20,9 @@ https://pjreddie.com/darknet/yolo/
 
 # than you should  Install  libraries : OpenCv - NumPy 
 
-
+```
  pip install opencv-python 
  
- 
  pip install numpy
+ 
+```
